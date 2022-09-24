@@ -1,2 +1,5 @@
-# MeuPortf-lio1
-##Um portfólio usando html e css, mostrando um pouco de quem eu sou, trazendo imagens de momentos bons e falando de coisas que gosto de fazer na vida.
+<h1 align="center"> Meu primeiro portfólio </h1>
+
+<b>[Descrição do Projeto](#descrição-do-projeto)</b> </p> Um portfólio que descreve brevemente quem eu sou e do que tenho paixão em fazer e de como gosto de viver. 
+
+<b>[Tecnologias utilizadas](#tecnologias-utilizadas)</b><p> `HTML5`/`CSS3`</p>
